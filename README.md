@@ -1,2 +1,2 @@
 # teamtasks
-working in a team
+Working on group projects.
