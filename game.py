@@ -12,7 +12,7 @@ import random
   Nr. among 1, 2, 3
 - After that, it will automaticly determine the winner 
 - At the end you can choose also if you want to play again, than you have to enter 'Y' or if you are happy with the result and want to close it, just enter 'N' and you´ll get a thanks message at the end
-- Design and create belongs Nedim Demirel"""
+- Design and create belongs Nedim-34"""
 
 # Print multiline instruction
 print("********************************************************")
